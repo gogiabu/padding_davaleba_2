@@ -1,0 +1,31 @@
+
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid #B4B4B4;
+    background-color: #FFF;
+}
+h4{
+    color: #000;
+    font-size: 14px;
+    padding-top: 96px;
+    padding-left: 119px;
+}
+p{
+    color: #808080;
+    font-size: 14px;
+    padding-left: 119px;
+    padding-right: 118px;
+}
+img{
+
+    padding-left: 119px;
+    padding-right: 126px;
+}
+a{
+    color: #00E;
+    font-size: 16px;
+    padding-left: 119px;
+    padding-right: 355px;
+    padding-bottom: 96px;
+}
